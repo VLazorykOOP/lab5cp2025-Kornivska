@@ -1,0 +1,15 @@
+C:\Users\Alina Kornivska\lab5cp2025-Kornivska\LAB5\bin\Debug\net9.0-windows\LAB5.exe
+C:\Users\Alina Kornivska\lab5cp2025-Kornivska\LAB5\bin\Debug\net9.0-windows\LAB5.deps.json
+C:\Users\Alina Kornivska\lab5cp2025-Kornivska\LAB5\bin\Debug\net9.0-windows\LAB5.runtimeconfig.json
+C:\Users\Alina Kornivska\lab5cp2025-Kornivska\LAB5\bin\Debug\net9.0-windows\LAB5.dll
+C:\Users\Alina Kornivska\lab5cp2025-Kornivska\LAB5\bin\Debug\net9.0-windows\LAB5.pdb
+C:\Users\Alina Kornivska\lab5cp2025-Kornivska\LAB5\obj\Debug\net9.0-windows\LAB5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina Kornivska\lab5cp2025-Kornivska\LAB5\obj\Debug\net9.0-windows\LAB5.AssemblyInfoInputs.cache
+C:\Users\Alina Kornivska\lab5cp2025-Kornivska\LAB5\obj\Debug\net9.0-windows\LAB5.AssemblyInfo.cs
+C:\Users\Alina Kornivska\lab5cp2025-Kornivska\LAB5\obj\Debug\net9.0-windows\LAB5.csproj.CoreCompileInputs.cache
+C:\Users\Alina Kornivska\lab5cp2025-Kornivska\LAB5\obj\Debug\net9.0-windows\LAB5.sourcelink.json
+C:\Users\Alina Kornivska\lab5cp2025-Kornivska\LAB5\obj\Debug\net9.0-windows\LAB5.dll
+C:\Users\Alina Kornivska\lab5cp2025-Kornivska\LAB5\obj\Debug\net9.0-windows\refint\LAB5.dll
+C:\Users\Alina Kornivska\lab5cp2025-Kornivska\LAB5\obj\Debug\net9.0-windows\LAB5.pdb
+C:\Users\Alina Kornivska\lab5cp2025-Kornivska\LAB5\obj\Debug\net9.0-windows\LAB5.genruntimeconfig.cache
+C:\Users\Alina Kornivska\lab5cp2025-Kornivska\LAB5\obj\Debug\net9.0-windows\ref\LAB5.dll

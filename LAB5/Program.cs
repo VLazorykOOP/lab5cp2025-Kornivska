@@ -1,5 +1,6 @@
 using System;
 using System.Windows.Forms;
+using ArchimedeanTree;  // Простір імен, де знаходиться Form2
 
 namespace LAB5
 {
@@ -8,10 +9,8 @@ namespace LAB5
         [STAThread]
         static void Main()
         {
-            Application.SetHighDpiMode(HighDpiMode.SystemAware);
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            ApplicationConfiguration.Initialize();
+            Application.Run(new Form2());
         }
     }
 }
